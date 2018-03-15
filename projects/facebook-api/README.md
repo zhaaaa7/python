@@ -7,29 +7,29 @@ I analyze the last 250 posts on CNN International Facebook page (https://www.fac
 First, install Wikipedia module (pip install Wikipedia).
 Then, run CnnInternational.py.
 You will see the files below after you run the code:
--A CSV file named cnn_word with three columns: country name, times and a Fliker image url where you can find a picture of that country.
--A txt file named imageurl containing 5 flickr url
--Five txt files containing basic information about 5 countries
+* A CSV file named cnn_word with three columns: country name, times and a Fliker image url where you can find a picture of that country.
+* A txt file named imageurl containing 5 flickr url
+* Five txt files containing basic information about 5 countries
 If you have internet connection, your browser will automatically open and show you those images. 
 
 3. List all the files you are turning in, with a brief description of each one. 
 
--cnnInternational.py: code file
--country.txt: contains names of countries that to compare and analyze the contents of posts
--README.txt: this file
--cnn_word.csv: saves country name, times of being mentioned and a Fliker image url where you can find a picture of that country.
--cnn.txt: caches data from Facebook
--imageurl.txt: caches data from flickr
--China.txt: caches data from Wikipedia
--Japan.txt: caches data from Wikipedia
--Italy.txt: caches data from Wikipedia
--Indonesia.txt: caches data from Wikipedia
--Jordan.txt: caches data from Wikipedia
+* cnnInternational.py: code file
+* country.txt: contains names of countries that to compare and analyze the contents of posts
+* README.txt: this file
+* cnn_word.csv: saves country name, times of being mentioned and a Fliker image url where you can find a picture of that country.
+* cnn.txt: caches data from Facebook
+* imageurl.txt: caches data from flickr
+* China.txt: caches data from Wikipedia
+* Japan.txt: caches data from Wikipedia
+* Italy.txt: caches data from Wikipedia
+* Indonesia.txt: caches data from Wikipedia
+* ordan.txt: caches data from Wikipedia
 
 
 4. Any Python packages/modules that must be installed in order to run your project.
 
---Wikipedia module
+* Wikipedia module
 
 
 5. What API sources did you use? Provide links here and any other description necessary.
