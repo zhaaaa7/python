@@ -1,6 +1,6 @@
 1. Describe your project in 1-4 sentences. 
 
-I analyze the last 250 posts on CNN International Facebook page (https://www.facebook.com/cnninternational/) to find 5 most mentioned countries. Then I save data about basic knowledge of the 5 countries from Wikipedia and write them into 5 separate txt files. Also, I create a csv file saving country name, times of being mentioned and a Flickr image url where you can find a picture with a tag of that country¡¯s name.
+I analyze the last 250 posts on CNN International Facebook page (https://www.facebook.com/cnninternational/) to find 5 most mentioned countries. Then I save data about basic knowledge of the 5 countries from Wikipedia and write them into 5 separate txt files. Also, I create a csv file saving country name, times of being mentioned and a Flickr image url where you can find a picture with a tag of that countryÂ¡Â¯s name.
 
 2. Explain exactly what needs to be done to run your program.
 
