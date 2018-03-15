@@ -1,4 +1,4 @@
 # 507Project1
 
 
-[See assignment instructions!](https://docs.google.com/document/d/1Axgl6VBNUXYWJMtFJ2waS8He4HSW1i5TjszCzS3Ri54/edit#heading=h.o87rsunnb6uy)
+[See assignment instructions!](https://drive.google.com/file/d/1ECt0SiLOvpSEJs3k-gtB3KZi9OynvQEd/view?usp=sharing)
