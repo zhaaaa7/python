@@ -7,9 +7,6 @@ This week we will practise using regular expressions.
 
 We are reusing most of a lab assignment developed by Prof. Susan Rodgers at Duke University. See http://www.cs.duke.edu/courses/compsci101/fall16/labs/lab11/ for original.
 
-Week 3 Lab Assignment Goals
-● Use regular expressions1
-● Revise Git commands
 Step 1 : Create a GitHub repository
 ● Go to
 https://classroom.github.com/assignment-invitations/12785d7afd8ed6ea5e131a5a8b30b
